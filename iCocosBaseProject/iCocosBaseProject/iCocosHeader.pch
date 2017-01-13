@@ -1,0 +1,18 @@
+//
+//  iCocosHeader.pch
+//  iCocosBaseProject
+//
+//  Created by tqy on 17/1/13.
+//  Copyright © 2017年 iCocos. All rights reserved.
+//
+
+#ifndef iCocosHeader_h
+#define iCocosHeader_h
+
+#import "PublicDefine.h"
+
+#import "UIView+Helpers.h"
+#import "NSString+Extension.h"
+#import "UIImage+Extension.h"
+
+#endif /* iCocosHeader_h */

@@ -9,22 +9,4 @@
 
 更多项目相关工具，分类与技巧请查看个人其他repository（如：https://github.com/al1020119/iCocos-Cao/tree/master/iCocos-Git ），或请留言！
 
-
 本人已经有两个项目是直接在这个基础上实现的，当然由于个人技术的原因，相关问题与性能要求还有待提升，如果你有什么问题，或者建议可以跟我联系
-
-
-
-
-
-===
-
-
-    Q Q：2211523682/790806573
-
-    微信：18370997821/13148454507
-    
-    微博WB:http://weibo.com/u/3288975567?is_hot=1
-    
-	git博文：http://al1020119.github.io/
-	
-	github：https://github.com/al1020119
